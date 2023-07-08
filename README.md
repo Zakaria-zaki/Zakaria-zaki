@@ -1,4 +1,4 @@
-<p align="left"> <img src="v617batch2-bb-01-technology.jpg" alt="zakaria-zaki" height="300" width="1200"/> </p>
+<p align="center"> <img src="4401280-removebg-preview.png" alt="zakaria-zaki" height="500"/> </p>
 
 <h1 align="center">Hi 👋, I'm Zakaria</h1>
 <h3 align="center">A passionate full-satck developer from France 🇫🇷</h3>
