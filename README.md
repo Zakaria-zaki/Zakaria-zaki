@@ -1,5 +1,3 @@
-<p align="center"> <img src="4401280-removebg-preview.png" alt="zakaria-zaki" height="350"/> </p>
-
 <h1 align="center">Hi 👋, I'm Zakaria</h1>
 <h3 align="center">A passionate full-satck developer from France 🇫🇷</h3>
 
