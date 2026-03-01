@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0e75b6&height=220&section=header&text=Zakaria%20Attaoui&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20France%20🇫🇷&descSize=18&descAlignY=55&animation=fadeIn" width="100%" />
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&random=false&width=600&lines=Building+robust+web+applications;Passionate+about+clean+architecture;Always+learning+new+technologies;Full-Stack+%7C+DevOps+%7C+Cloud" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&random=false&width=600&lines=Building+robust+web+applications;Passionate+about+clean+architecture;Always+learning+new+technologies;Full-Stack" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -77,21 +77,6 @@ currently_learning: Always exploring new tech
   <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
   <a href="https://www.oracle.com/"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/></a>
   <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/></a>
-</p>
-</details>
-
-<details open>
-<summary><b>☁️ DevOps & Cloud</b></summary>
-<br/>
-<p>
-  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
-  <a href="https://kubernetes.io"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/></a>
-  <a href="https://aws.amazon.com"><img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/></a>
-  <a href="https://www.jenkins.io"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/></a>
-  <a href="https://circleci.com"><img src="https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white" alt="CircleCI"/></a>
-  <a href="https://www.nginx.com"><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/></a>
-  <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/></a>
-  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
 </p>
 </details>
 
